@@ -3853,7 +3853,7 @@
 <image_size>
   312 312</image_size>
 <real_size>
-  11. 11.</real_size>
+  0.11 0.11</real_size>
 <image type_id="opencv-matrix">
   <rows>312</rows>
   <cols>312</cols>
